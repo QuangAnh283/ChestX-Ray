@@ -51,6 +51,7 @@ MobileNetV2
 Bạn có thể cấu hình trong file train_model.py.
 
 🛠️ Cách chạy dự án
+
 1️⃣ Cài thư viện
 pip install -r requirements.txt
 
@@ -105,5 +106,6 @@ Triển khai UI upload ảnh
 Triển khai API lên cloud (Render / Railway / HuggingFace Spaces)
 
 👨‍💻 Tác giả
+
 Bạch Quang Anh
 Dự án được thực hiện trong kỳ thực tập — mục tiêu học tập và nghiên cứu về thị giác máy tính.
