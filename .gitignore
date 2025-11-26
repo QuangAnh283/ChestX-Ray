@@ -1,0 +1,46 @@
+# ============================
+# Ignore dataset
+# ============================
+chest_xray/
+test/
+train/
+val/
+*.jpg
+*.jpeg
+*.png
+*.dcm
+*.npz
+__MACOSX/
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# ============================
+# IDE
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# OS files
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Models (optional)
+# uncomment nếu model quá lớn
+# models/
