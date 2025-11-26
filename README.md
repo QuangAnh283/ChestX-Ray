@@ -14,20 +14,6 @@ Xây dựng mô hình CNN độ chính xác cao.
 
 Tích hợp API dự đoán ảnh.
 
-📂 Cấu trúc dự án
-INTERNSHIP/
-│
-├── api/                     # API prediction
-├── models/                  # Lưu model (.h5 / .pt)
-│
-├── dataset.py               # Load & xử lý dataset
-├── train_model.py           # Train model
-├── preprocess.py            # Tiền xử lý ảnh
-├── predict.py               # Dự đoán ảnh X-ray
-├── so_lieu.py               # Thống kê / vẽ đồ thị
-│
-├── .gitignore               # Bỏ dataset + file nặng
-└── README (file này)
 
 📦 Dataset
 
