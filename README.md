@@ -20,12 +20,10 @@ Tích hợp API dự đoán ảnh.
 Dataset KHÔNG nằm trong repo để tránh dung lượng lớn.
 
 Dataset Chest X-ray được tải trực tiếp (Kaggle):
+
 🔗 Chest X-Ray Pneumonia Dataset
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-Sau khi tải, đặt vào thư mục:
-
-INTERNSHIP/chest_xray/
 
 🧠 Mô hình sử dụng
 
@@ -94,4 +92,5 @@ Triển khai API lên cloud (Render / Railway / HuggingFace Spaces)
 👨‍💻 Tác giả
 
 Bạch Quang Anh
+
 Dự án được thực hiện trong kỳ thực tập — mục tiêu học tập và nghiên cứu về thị giác máy tính.
